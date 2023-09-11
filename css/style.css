@@ -32,6 +32,7 @@
 	@media (max-width: 800px) {
 		#pixRow{display:none}
 		#title_logo{width:50px}
+		#helpful_quote{width: 300px;}
 	}
 	@media (min-width: 800px) {
 		#nav-brand{font-size:40px;}
@@ -40,10 +41,22 @@
 		div#dropdown-menu{position:absolute;}
 	} */
 	
+	@media (min-width: 575px) {
+		#helpful_quote{width: 300px;}
+	}
+	
+	@media (min-width: 992px) {
+		#helpful_quote{width: 400px;}
+	}
+	@media (min-width: 1200px) {
+		#helpful_quote{width: 600px;}
+	}
+
+
 	@media (min-width: 370px)  {
 		div#dropdown-menu{z-index:20;position:relative;margin-left:-60px;}
 		html body section#warriorQuote {
-			background-color: #c5840c;
+			background-color: #000000;
 			padding: 20px;
 		}
 	}

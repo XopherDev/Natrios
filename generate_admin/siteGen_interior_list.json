@@ -1,8 +1,8 @@
 {
-    "classes.html": {
-      "title": "Classes you can expect at FireBird MMA",
-      "banner_name": "Classes",
-      "content": "<h1 style=\"color:#000;\">See the classes we have to offer</h1>
+    "desert.html": {
+      "title": "We've helped the deserts",
+      "banner_name": "Desert",
+      "content": "<h1 style=\"color:#000;\">See the deserts we have helped</h1>
                 <p style=\"color:#000;\">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
                 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
@@ -10,7 +10,7 @@
                 nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
                 anim id est laborum.
                 </p>
-                <a id=\"Weekdays\"><h3 style=\"color:#000;\">Weekdays</h1></a>
+                <a id=\"Sonoran\"><h3 style=\"color:#000;\">Sonoran</h1></a>
                 <p style=\"color:#000;\">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
                 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
@@ -18,7 +18,7 @@
                 nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
                 anim id est laborum.
                 </p>
-                <a id=\"Weekends\"><h3 style=\"color:#000;\">Weekends</h1></a>
+                <a id=\"Sahara \"><h3 style=\"color:#000;\">Sahara</h1></a>
                 <p style=\"color:#000;\">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
                 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
@@ -26,7 +26,7 @@
                 nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
                 anim id est laborum.
                 </p>
-                <a id=\"Private\"><h3 style=\"color:#000;\">Private Sessions</h1></a>
+                <a id=\"Patagonia\"><h3 style=\"color:#000;\">Patagonia</h1></a>
                 <p style=\"color:#000;\">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
                 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
@@ -36,10 +36,10 @@
                 </p>"
       },
 
-    "membership.html": {
-      "title": "Membership has its privleges at FireBird MMA",
-      "banner_name": "Membership",
-      "content": "<h1 style=\"color:#000;\">We have a great membership plan for you</h1>
+    "valleys.html": {
+      "title": "We've helped the valleys",
+      "banner_name": "Valleys",
+      "content": "<h1 style=\"color:#000;\">Research done on the great valleys</h1>
       <p style=\"color:#000;\">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
       magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
@@ -49,10 +49,10 @@
       </p>"
       },
 
-    "team.html": {
-      "title": "Meet the team here at FireBird MMA",
-      "banner_name": "Meet The Team",
-      "content": "<h1 style=\"color:#000;\">Meet our great intructors</h1>
+    "forest.html": {
+      "title": "We've helped the forests",
+      "banner_name": "Forests",
+      "content": "<h1 style=\"color:#000;\">We love the forests</h1>
       <p style=\"color:#000;\">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
       magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
@@ -62,10 +62,10 @@
       </p>"
       },
 
-    "signup.html": {
-      "title": "Sign up today to join our class and become a warrior",
-      "banner_name": "Join Today",
-      "content": "<h1 style=\"color:#000;\">Ready to join?</h1>
+    "mountains.html": {
+      "title": "We've helped the mountains",
+      "banner_name": "Mountains",
+      "content": "<h1 style=\"color:#000;\">Mountain sustainability is important</h1>
       <p style=\"color:w#000hite;\">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
       magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
@@ -81,11 +81,11 @@
         "content": "<h1 style=\"color:#000;\">Sitemap</h1>
         <p style=\"color:#000;\">
         <ul>
-          <li><a href=\"./\" style=\"color:#ffffff;\">Homepage</a></li>
-          <li><a href=\"./classes\" style=\"color:#ffffff;\">Classes</a></li>
-          <li><a href=\"./membership\" style=\"color:#ffffff;\">Membership</a></li>
-          <li><a href=\"./team\" style=\"color:#ffffff;\">Team</a></li>
-          <li><a href=\"./signup\" style=\"color:#ffffff;\">Join Today</a></li>
+          <li><a href=\"./\" style=\"color:#000;\">Homepage</a></li>
+          <li><a href=\"./desert\" style=\"color:#000;\">Desert</a></li>
+          <li><a href=\"./valleys\" style=\"color:#000;\">Valleys</a></li>
+          <li><a href=\"./forest\" style=\"color:#000;\">Forest</a></li>
+          <li><a href=\"./mountains\" style=\"color:#000;\">Mountains</a></li>
         </ul>
         </p>"
         }

@@ -1,0 +1,140 @@
+    .jumbotron {
+        background-image: url('../images/hero_main.png');
+        background-size: cover;
+        background-position: center;
+        color: #fff; /* Set text color to ensure readability */
+		height: 800px;
+		border-top-left-radius: 0rem;
+		border-top-right-radius: 0rem;
+		border-bottom-right-radius: 0rem;
+		border-bottom-left-radius: 0rem;
+    }
+
+    div#interior_header {
+        background-image: url('../images/int_header_bk.png');
+        background-size: cover;
+        background-position: center;
+        color: #000000; /* Set text color to ensure readability */
+		border-top-left-radius: 0rem;
+		border-top-right-radius: 0rem;
+		border-bottom-right-radius: 0rem;
+		border-bottom-left-radius: 0rem;
+    }
+	
+	@media (max-width: 800px) {
+		/*#flagCol{display:none}*/
+		#nav-brand{font-size:30px;}
+	}
+	@media (max-width: 576px) {
+		#flagCol{display:none;}
+	}
+	
+	@media (max-width: 800px) {
+		#pixRow{display:none}
+		#title_logo{width:50px}
+	}
+	@media (min-width: 800px) {
+		#nav-brand{font-size:40px;}
+	}
+	/* @media (min-width: 992px) {
+		div#dropdown-menu{position:absolute;}
+	} */
+	
+	@media (min-width: 370px)  {
+		div#dropdown-menu{z-index:20;position:relative;margin-left:-60px;}
+		html body section#warriorQuote {
+			background-color: rgb(0, 0, 0);
+			padding: 20px;
+		}
+	}
+
+	@media (min-width: 360px) and (max-width:2500px) {
+		div#dropdown-menu{z-index:20;position:absolute;margin-left:-27px;}
+	}
+	
+	
+	
+	.btn-xlarge {
+    padding: 18px 58px;
+    font-size: 30px; //change this to your desired size
+    line-height: normal;
+    -webkit-border-radius: 4px;
+       -moz-border-radius: 4px;
+            border-radius: 4px;
+	}
+	
+	section.jumbotron {
+		margin-bottom:0rem;
+	}
+
+	footer.footerInfo {
+		background-color:rgb(65, 65, 65);
+		padding-top:20px;
+		color:white;
+	}
+
+	.footerHeader {
+		font-family:Work+Sans;
+		color:rgb(255, 255, 255);
+		font-size:2em;
+		text-align:center;
+	}
+
+	.form-control {
+		border-color: black;
+	}
+
+	div.headerOffsetArea {
+		background-color:#c20000;
+		width:100%;
+		position:relative;
+		top:20px;
+		overflow:visible;
+		padding:0px;
+	}
+
+
+	html body section div.container div.row div.col-sm-6{
+		background-color:#999;
+	}
+
+	/* html body section#warriorQuote {
+		background-color: black;
+		padding: 100px;
+	} */
+
+
+
+/* START Scroll to top button */
+	#myBtn {
+		display: none; /* Hidden by default */
+		position: fixed; /* Fixed/sticky position */
+		bottom: 20px; /* Place the button at the bottom of the page */
+		right: 30px; /* Place the button 30px from the right */
+		z-index: 99; /* Make sure it does not overlap */
+		border: none; /* Remove borders */
+		outline: none; /* Remove outline */
+		background-color: rgb(0, 0, 0); /* Set a background color */
+		color: white; /* Text color */
+		cursor: pointer; /* Add a mouse pointer on hover */
+		padding: 15px; /* Some padding */
+		border-radius: 10px; /* Rounded corners */
+		font-size: 18px; /* Increase font size */
+	  }
+	  
+	  #myBtn:hover {
+		background-color: #555; /* Add a dark-grey background on hover */
+	  }
+/* END Scroll to top button */
+
+body {
+	background-color: #16302d;
+}
+
+h1 p {
+	font-family: Work+Sans;
+}
+
+h1 {
+	color: #377b73!important;
+}

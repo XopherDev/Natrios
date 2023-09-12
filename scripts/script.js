@@ -26,7 +26,7 @@ function topFunction() {
 
 
 
-// CODE for Consent Cookies
+// CODE for ***Consent Cookies***
 const cookieBox = document.querySelector(".wrapper"),
   buttons = document.querySelectorAll(".button");
 
